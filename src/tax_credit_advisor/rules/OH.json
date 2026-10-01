@@ -1,0 +1,8 @@
+{
+  "code": "OH",
+  "name": "Job Creation Credit (illustrative)",
+  "threshold_new_jobs": 10,
+  "benefit": { "type": "per_job", "amount": 2000 },
+  "period_years": 3,
+  "citation": "Illustrative placeholder — not a real statute"
+}

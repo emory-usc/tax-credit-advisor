@@ -1,0 +1,8 @@
+{
+  "code": "NC",
+  "name": "Job Expansion Credit (illustrative)",
+  "threshold_new_jobs": 5,
+  "benefit": { "type": "per_job", "amount": 2500 },
+  "period_years": 4,
+  "citation": "Illustrative placeholder — not a real statute"
+}

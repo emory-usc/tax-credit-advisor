@@ -1,0 +1,8 @@
+{
+  "code": "SC",
+  "name": "Jobs Tax Credit (illustrative)",
+  "threshold_new_jobs": 5,
+  "benefit": { "type": "per_job", "amount": 2000 },
+  "period_years": 3,
+  "citation": "Illustrative placeholder — not a real statute"
+}

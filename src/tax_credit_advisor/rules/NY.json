@@ -1,0 +1,8 @@
+{
+  "code": "NY",
+  "name": "Jobs Program (illustrative)",
+  "threshold_new_jobs": 25,
+  "benefit": { "type": "per_job", "amount": 4000 },
+  "period_years": 5,
+  "citation": "Illustrative placeholder — not a real statute"
+}

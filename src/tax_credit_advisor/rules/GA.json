@@ -1,0 +1,8 @@
+{
+  "code": "GA",
+  "name": "State Jobs Credit (illustrative)",
+  "threshold_new_jobs": 10,
+  "benefit": { "type": "per_job", "amount": 3000 },
+  "period_years": 5,
+  "citation": "Illustrative placeholder — not a real statute"
+}
