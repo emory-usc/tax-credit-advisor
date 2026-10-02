@@ -17,7 +17,7 @@ param namePrefix string = 'taxcredit'
 @description('API key for the protected endpoints')
 param apiKey string
 
-@description('Container image to deploy (e.g. ghcr.io/<user>/tax-credit-advisor:latest)')
+@description('Container image to deploy (e.g. ghcr.io/<user>/tax-credit-engine:latest)')
 param containerImage string
 
 // ---------------------------------------------------------------------------
@@ -74,7 +74,7 @@ resource containerApp 'Microsoft.App/containerApps@2023-05-01' = {
     template: {
       containers: [
         {
-          name: 'tax-credit-advisor'
+          name: 'tax-credit-engine'
           image: containerImage
           resources: {
             cpu: json('0.25')

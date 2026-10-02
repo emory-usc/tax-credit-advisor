@@ -19,7 +19,7 @@ from tax_credit_advisor.data import SITES
 _API_KEY = os.environ.get("TAX_CREDIT_API_KEY", "dev-key")
 
 app = FastAPI(
-    title="tax-credit-advisor",
+    title="tax-credit-engine",
     version=__version__,
     description=(
         "Deterministic job-creation tax-credit analysis. Illustrative data and "

@@ -1,6 +1,6 @@
-# Tax Credit Advisor
+# Tax Credit Engine
 
-[![CI](https://github.com/emory-usc/tax-credit-advisor/actions/workflows/ci.yml/badge.svg)](https://github.com/emory-usc/tax-credit-advisor/actions/workflows/ci.yml)
+[![CI](https://github.com/emory-usc/tax-credit-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/emory-usc/tax-credit-engine/actions/workflows/ci.yml)
 
 A deterministic job-creation tax-credit engine with a FastAPI delivery
 surface, built around one architectural rule:

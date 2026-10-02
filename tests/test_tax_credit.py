@@ -1,4 +1,4 @@
-"""Tests for tax-credit-advisor."""
+"""Tests for Tax Credit Engine."""
 
 from tax_credit_advisor import agents, engine
 from tax_credit_advisor.data import SITES

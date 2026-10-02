@@ -1,4 +1,4 @@
-"""CI smoke test for the tax-credit-advisor API surface."""
+"""CI smoke test for the Tax Credit Engine API surface."""
 
 from fastapi.testclient import TestClient
 

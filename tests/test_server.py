@@ -1,4 +1,4 @@
-"""Tests for the tax-credit-advisor FastAPI surface."""
+"""Tests for the Tax Credit Engine FastAPI surface."""
 
 from fastapi.testclient import TestClient
 
